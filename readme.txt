@@ -11,3 +11,6 @@ I will push this to the remote origin.
 Create a new branch is quick and simple.
 
 GitRepositroy : Modify code at branch dev.
+
+Clone code from origin/dev to dev branch.
+
